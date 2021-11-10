@@ -1,4 +1,7 @@
 <h1 align="center">Restaurants-Search</h1>
+<p align="center">
+  Este projeto foi publicado no Netlify, no link <a href="https://get-food-diego.netlify.app/">https://get-food-diego.netlify.app/</a>
+</p>
 
 <p align="center">
   <img src="./src/assets/home.jpg" width="700">
